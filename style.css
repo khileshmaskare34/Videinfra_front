@@ -563,7 +563,10 @@ html,body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #5d2e2e;
+    /* background-color: #5d2e2e; */
+    background-color: #CDCECF;
+
+
 }
 #page8>h1{
     font-family: gilBold;
